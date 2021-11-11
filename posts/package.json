@@ -1,0 +1,28 @@
+{
+  "name": "posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloBInotto/microsservices_nodejs_rabbitmq.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "RabbitMQ"
+  ],
+  "author": "Pablo Binotto",
+  "license": "ISC",
+  "dependencies": {
+    "axios":"^0.24.0",
+    "cors":"^2.8.5",
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/PabloBInotto/microsservices_nodejs_rabbitmq/issues"
+  },
+  "homepage": "https://github.com/PabloBInotto/microsservices_nodejs_rabbitmq#readme"
+}
